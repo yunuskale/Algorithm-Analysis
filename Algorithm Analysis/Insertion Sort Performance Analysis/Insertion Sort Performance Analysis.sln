@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insertion Sort Performance Analysis", "Insertion Sort Performance Analysis.csproj", "{316CCDC2-977E-442C-A98D-C5E1989EE6D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{316CCDC2-977E-442C-A98D-C5E1989EE6D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316CCDC2-977E-442C-A98D-C5E1989EE6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316CCDC2-977E-442C-A98D-C5E1989EE6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316CCDC2-977E-442C-A98D-C5E1989EE6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7538CCEC-038A-449F-AE7F-55365DF27861}
+	EndGlobalSection
+EndGlobal
