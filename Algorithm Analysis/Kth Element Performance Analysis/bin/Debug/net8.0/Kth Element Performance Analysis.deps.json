@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kth Element Performance Analysis/1.0.0": {
+        "runtime": {
+          "Kth Element Performance Analysis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kth Element Performance Analysis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
